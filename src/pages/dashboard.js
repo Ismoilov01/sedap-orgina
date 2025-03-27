@@ -17,7 +17,7 @@ export default class Dashboard extends React.Component {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <div className="container">
-          <h1>Olimjon</h1>
+          <h1>Javohir</h1>
           <p>27.03.2025</p>
         </div>
       </>
